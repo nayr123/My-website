@@ -9,7 +9,9 @@ p {
     font-size: 50%;
 }
 
-
+li {
+    display: inline;
+}
 
 h1 {
     background-color: yellow;
@@ -18,8 +20,20 @@ h1 {
 H2{
    font-size: 50%;
 
+
+
 }
 
 ol{
   font-size: 70%;
+}
+
+h2{
+  color: DodgerBlue;
+  font-size: 160%;
+}
+
+li{
+  color: DodgerBlue;
+  font-size: 100%;
 }
