@@ -3,15 +3,13 @@ body {
     background-color: black;
 }
 
+
 p {
     color: black;
     font-family: verdana;
     font-size: 50%;
 }
 
-li {
-    display: inline;
-}
 
 h1 {
     background-color: yellow;
